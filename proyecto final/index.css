@@ -1,0 +1,52 @@
+.Netflix{display: flexbox;
+    flex-wrap: nowrap;
+text-align: left ;
+}
+
+Menu{text-align: center;
+    color: white;
+    display: flexbox;
+    flex-direction: column;
+    padding: 30px;
+}
+
+body{
+    color: white;
+    background-color: rgb(rgb(22, 20, 20), rgb(27, 32, 27), rgb(24, 24, 29));}
+
+nav{display: flexbox;
+    flex-direction: column;
+    color: white;
+    padding: 50px;;
+    text-align: left;
+    background-color: black
+    
+}
+header{display: flexbox;
+flex-direction: column;
+padding: 150px;
+background-color: black;
+padding-inline-end: 100px;
+}
+
+
+button{    
+color: white;
+background-color: black;
+font-size: medium;
+font-style: oblique;;
+
+}
+.Netflix{
+    display: flexbox;
+    flex-direction: inherit;
+    text-align: left;
+}
+
+main{display: flexbox;
+    flex-direction: column;
+    background-color: black;
+     
+
+}
+
